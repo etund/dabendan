@@ -1,7 +1,0 @@
-[submodule "themes/hermit-v2"]
-	path = themes/hermit-v2
-	url = https://github.com/1bl4z3r/hermit-V2
-	branch = main
-[submodule "themes/roxo-hugo"]
-	path = themes/roxo-hugo
-	url = https://github.com/StaticMania/roxo-hugo.git
