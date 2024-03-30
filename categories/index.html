@@ -5,33 +5,33 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="This is meta description">
+  <meta name="description"
+    content="This is meta description">
+  
   <meta name="author" content="Themefisher">
   <meta name="generator" content="Hugo 0.124.1">
-  
-  
-  <meta name="theme-name" content="vex-hugo" />
+
+  <meta name="theme-name" content="adrian-hugo" />
 
   <!-- plugins -->
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid&#43;Serif:400%7cJosefin&#43;Sans:300,400,600,700 ">
+  <link rel="stylesheet" href="/plugins/bootstrap/bootstrap.min.css ">
   
-  <link rel="stylesheet" href="http://localhost:1313/plugins/bootstrap/bootstrap.min.css ">
+  <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css ">
   
-  <link rel="stylesheet" href="http://localhost:1313/plugins/themefisher-font/themefisher-font.min.css ">
+  <link rel="stylesheet" href="/plugins/slick/slick.css ">
   
-  <link rel="stylesheet" href="http://localhost:1313/plugins/slick/slick.min.css ">
-  
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css ">
+  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.css ">
   
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href="http://localhost:1313/scss/style.min.css" media="screen">
+  <link rel="stylesheet" href="/scss/style.min.css" integrity="" media="screen">
 
-  <!--Favicon-->
-  <link rel="shortcut icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
-  <link rel="icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+  
+  <link rel="shortcut icon" href="/" type="image/x-icon">
+  <link rel="icon" href="/" type="image/x-icon">
+
 
   
   <meta property="og:title" content="Categories" />
@@ -39,186 +39,413 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://localhost:1313/categories/" />
 
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Categories"/>
+<meta name="twitter:description" content="This is meta description"/>
+
+  
   
 
-</head>
-<body id="body">
+</head><body>
 <!-- preloader start -->
 <div class="preloader">
   
 </div>
 <!-- preloader end -->
-
-<header class="sticky-top bg-white">
+<nav class="navbar navbar-expand-lg navbar-light bg-white w-100 navigation" id="navbar">
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="/"> <img src="http://localhost:1313/images/logo.png" alt="Vex | hugo landing page template" width="100px"> </a>
-      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
-        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+    <a class="navbar-brand" href="http://localhost:1313/"><img class="img-fluid" src="/images/logo.png"
+        alt="Adrian Hugo | E-commerce template"></a>
 
-      <div class="collapse navbar-collapse text-center" id="navigation">
-        <ul class="navbar-nav ml-auto">
-          
-          <li class="nav-item">
-            <a class="nav-link" href="http://localhost:1313/">Home</a>
-          </li>
-          
-          <li class="nav-item">
-            <a class="nav-link" href="http://localhost:1313/products/">Products</a>
-          </li>
-          
-          <li class="nav-item">
-            <a class="nav-link" href="http://localhost:1313/blog/">Blog</a>
-          </li>
-          
-          <li class="nav-item">
-            <a class="nav-link" href="/#testimonial">Review</a>
-          </li>
-          
-          <li class="nav-item">
-            <a class="nav-link" href="http://localhost:1313/contact/">Contact</a>
-          </li>
-          
-        </ul>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
+      aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse " id="main-navbar">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="http://localhost:1313/"> Home </a>
+        </li>
         
         
-        <select class="lang-list" id="select-language" onchange="location = this.value;">
-          
-          
-          
-          
-          
-          
-          
-          
-          <option id="en" value="http://localhost:1313/categories/" selected>En
-          </option>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <option id="fr" value="http://localhost:1313/fr/categories/">Fr</option>
-          
-          
-          
-          
-        </select>
+        <li class="nav-item">
+          <a class="nav-link" href="/shop/">Shop</a>
+        </li>
         
-      </div>
-      
-      <button class="cart snipcart-checkout"><i class="tf-ion-android-cart"></i><span class="badge badge-primary snipcart-items-count"></span></button>
-      
-    </nav>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/about/">About</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/faq/">Faq</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/contact/">Contact</a>
+        </li>
+        
+        
+      </ul>
+    </div>
+    
+
+    <ul class="top-menu list-inline mb-0 d-none d-lg-block" id="top-menu">
+      <li class="list-inline-item">
+        <a href="#" class="search_toggle" id="search-icon"><i class="ti-search"></i></a>
+      </li>
+      <li class="dropdown cart-nav dropdown-slide list-inline-item">
+        <a class="snipcart-checkout"><i class="ti-shopping-cart"></i></a>
+      </li>
+    </ul>
   </div>
-</header>
+</nav>
 
 
-<section class="feature-list section">
+<div class="search-wrap">
+  <div class="overlay">
+    <form action="/search" class="search-form">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 col-9">
+            <input type="search" id="search-query" name="s" class="form-control" placeholder="Search..." />
+            <button type="submit" hidden></button>
+          </div>
+          <div class="col-md-2 col-3 text-right">
+            <div class="search_toggle toggle-wrap d-inline-block">
+              <img class="search-close" src="/images/close.png" alt="X" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+<section class="page-header" style="background-image: url('/');">
+  <div class="overly"></div>
   <div class="container">
-    <div class="row">
-      <div class="col-12 text-center mb-5">
-        <h1>Categories</h1>
-      </div>
-    </div>
-    
-    <div class="row mb-40">
-      <div class="col-md-6 text-center mb-5 mb-lg-0">
-        <img class="img-fluid" src="http://localhost:1313/images/showcase/showcase-3.png" alt="">
-      </div>
-      <div class="col-md-6 align-self-center text-center text-md-left">
-        <div class="content">
-          <h4 class="subheading"><a class="link-title" href="http://localhost:1313/blog/post-3/">Best Watch Strap In Your Budget</a></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="http://localhost:1313/blog/post-3/" class="btn btn-main btn-main-sm">Read More</a>
+    <div class="row justify-content-center">
+      <div class="col-lg-6">
+        <div class="content text-center">
+          <h1 class="mb-3">Categories</h1>
         </div>
       </div>
     </div>
-    
-    <div class="row mb-40">
-      <div class="col-md-6 order-md-1 order-2 align-self-center text-center text-md-left">
-        <div class="content">
-          <h4 class="subheading"><a class="link-title" href="http://localhost:1313/blog/post-1/">How to choose right watch for you.</a></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="http://localhost:1313/blog/post-1/" class="btn btn-main btn-main-sm">Read More</a>
-        </div>
-      </div>
-      <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">
-        <img class="img-fluid" src="http://localhost:1313/images/showcase/showcase-1.png" alt="">
-      </div>
-    </div>
-    
-    
-    <div class="row mb-40">
-      <div class="col-md-6 text-center mb-5 mb-lg-0">
-        <img class="img-fluid" src="http://localhost:1313/images/showcase/showcase-4.png" alt="">
-      </div>
-      <div class="col-md-6 align-self-center text-center text-md-left">
-        <div class="content">
-          <h4 class="subheading"><a class="link-title" href="http://localhost:1313/blog/post-4/">Watch That Matters</a></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="http://localhost:1313/blog/post-4/" class="btn btn-main btn-main-sm">Read More</a>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row mb-40">
-      <div class="col-md-6 order-md-1 order-2 align-self-center text-center text-md-left">
-        <div class="content">
-          <h4 class="subheading"><a class="link-title" href="http://localhost:1313/blog/post-2/">Why You Should Buy a Smart Watch.</a></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="http://localhost:1313/blog/post-2/" class="btn btn-main btn-main-sm">Read More</a>
-        </div>
-      </div>
-      <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">
-        <img class="img-fluid" src="http://localhost:1313/images/showcase/showcase-2.png" alt="">
-      </div>
-    </div>
-    
-    
   </div>
 </section>
 
-<footer>
-  <div class="container text-center">
+<section class="products-shop section">
+  <div class="container">
     <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <a href="/" class="mb-4 d-inline-block"> <img src="http://localhost:1313/images/logo.png" alt="Vex | hugo landing page template" width="100px"> </a>
-          <ul class="list-inline footer-menu">
+      <div class="col-md-9">
+        <div class="row">
+          
+          
+          <div class="col-lg-4 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+              <div class="product-wrap">
+                <a href="/categories/bag/">
+                  
+                </a>
+              </div>
+              
+              <div class="product-hover-overlay">
+                <button class="snipcart-add-item"
+                  data-item-id="bag__"
+                  data-item-name="Bag"
+                  data-item-image=""
+                  data-item-price=""
+                  data-item-url="/categories/bag/"
+                  data-item-description=""
+                  
+                  ><i class="ti-shopping-cart-full"></i></button>
+              </div>
+
+              <div class="product-info">
+                <h2 class="product-title h5 mb-0"><a href="/categories/bag/">Bag</a></h2>
+                <span class="price">
+                  $
+                </span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+              <div class="product-wrap">
+                <a href="/categories/shirt/">
+                  
+                </a>
+              </div>
+              
+              <div class="product-hover-overlay">
+                <button class="snipcart-add-item"
+                  data-item-id="shirt__"
+                  data-item-name="Shirt"
+                  data-item-image=""
+                  data-item-price=""
+                  data-item-url="/categories/shirt/"
+                  data-item-description=""
+                  
+                  ><i class="ti-shopping-cart-full"></i></button>
+              </div>
+
+              <div class="product-info">
+                <h2 class="product-title h5 mb-0"><a href="/categories/shirt/">Shirt</a></h2>
+                <span class="price">
+                  $
+                </span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+              <div class="product-wrap">
+                <a href="/categories/shoe/">
+                  
+                </a>
+              </div>
+              
+              <div class="product-hover-overlay">
+                <button class="snipcart-add-item"
+                  data-item-id="shoe__"
+                  data-item-name="Shoe"
+                  data-item-image=""
+                  data-item-price=""
+                  data-item-url="/categories/shoe/"
+                  data-item-description=""
+                  
+                  ><i class="ti-shopping-cart-full"></i></button>
+              </div>
+
+              <div class="product-info">
+                <h2 class="product-title h5 mb-0"><a href="/categories/shoe/">Shoe</a></h2>
+                <span class="price">
+                  $
+                </span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+              <div class="product-wrap">
+                <a href="/categories/tops/">
+                  
+                </a>
+              </div>
+              
+              <div class="product-hover-overlay">
+                <button class="snipcart-add-item"
+                  data-item-id="tops__"
+                  data-item-name="Tops"
+                  data-item-image=""
+                  data-item-price=""
+                  data-item-url="/categories/tops/"
+                  data-item-description=""
+                  
+                  ><i class="ti-shopping-cart-full"></i></button>
+              </div>
+
+              <div class="product-info">
+                <h2 class="product-title h5 mb-0"><a href="/categories/tops/">Tops</a></h2>
+                <span class="price">
+                  $
+                </span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+              <div class="product-wrap">
+                <a href="/categories/watch/">
+                  
+                </a>
+              </div>
+              
+              <div class="product-hover-overlay">
+                <button class="snipcart-add-item"
+                  data-item-id="watch__"
+                  data-item-name="Watch"
+                  data-item-image=""
+                  data-item-price=""
+                  data-item-url="/categories/watch/"
+                  data-item-description=""
+                  
+                  ><i class="ti-shopping-cart-full"></i></button>
+              </div>
+
+              <div class="product-info">
+                <h2 class="product-title h5 mb-0"><a href="/categories/watch/">Watch</a></h2>
+                <span class="price">
+                  $
+                </span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-12">
             
-            <li class="list-inline-item">
-              <a href="http://localhost:1313/blog/">Blog</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <section class="widget widget-categories mb-5">
+          <h3 class="widget-title h4 mb-4">Categories</h3>
+          <ul class="list-unstyled">
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/categories/bag">Bag<span>4</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/categories/shirt">Shirt<span>1</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/categories/shoe">Shoe<span>4</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/categories/tops">Tops<span>2</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/categories/watch">Watch<span>4</span></a>
+            </li>
+          </ul>
+        </section>
+        <section class="widget widget-categories mb-5">
+          <h3 class="widget-title h4 mb-4">Colors</h3>
+          <ul class="list-unstyled">
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/black">Black<span>13</span></a>
             </li>
             
-            <li class="list-inline-item">
-              <a href="http://localhost:1313/contact/">Contact</a>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/blue">Blue<span>3</span></a>
             </li>
             
-            <li class="list-inline-item">
-              <a href="http://localhost:1313/terms-conditions/">Terms &amp; Conditions</a>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/golden">Golden<span>1</span></a>
             </li>
             
-            <li class="list-inline-item">
-              <a href="http://localhost:1313/privacy-policy/">Privacy Policy</a>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/green">Green<span>2</span></a>
+            </li>
+            
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/pink">Pink<span>1</span></a>
+            </li>
+            
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/red">Red<span>3</span></a>
+            </li>
+            
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/colors/white">White<span>8</span></a>
             </li>
             
           </ul>
-          <p class="copyright-text"></p>
+        </section>
+        <section class="widget widget-categories mb-5">
+          <h3 class="widget-title h4 mb-4">Sizes</h3>
+          <ul class="list-unstyled">
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/sizes/m">M<span>10</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/sizes/s">S<span>11</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/sizes/xl">XL<span>7</span></a>
+            </li>
+            <li>
+              <a class="cat-item d-lg-flex justify-content-between text-dark"
+                href="/sizes/xxl">XXL<span>1</span></a>
+            </li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-4 col-sm-6 mb-5 mb-lg-0 text-center text-sm-left mr-auto">
+        <div class="footer-widget">
+          <a class="navbar-brand" href="http://localhost:1313/"><img class="img-fluid" src="/images/logo.png"
+          alt="Adrian Hugo | E-commerce template"></a>
+          <p class="lead">Iste dolores iure quis excepturi, deserunt praesentium.</p>
+          <p class="mb-0"><strong>Location : </strong>Dhaka, Bangladedsh</p>
+          <p><strong>Support Email : </strong>demo@email.com</p>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-2 col-sm-6 mb-5 mb-lg-0 text-center text-sm-left">
+        <div class="footer-widget">
+          <h4 class="mb-4">Category</h4>
+          <ul class="pl-0 list-unstyled mb-0">
+            <li><a href="/categories/bag/">Bag</a></li>
+            <li><a href="/categories/shirt/">Shirt</a></li>
+            <li><a href="/categories/shoe/">Shoe</a></li>
+            <li><a href="/categories/tops/">Tops</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-2 col-sm-6 mb-5 mb-lg-0 text-center text-sm-left">
+        <div class="footer-widget">
+          <h4 class="mb-4">Useful Link</h4>
+          <ul class="pl-0 list-unstyled mb-0">
+            
+            <li><a href="/shop/">Shop</a></li>
+            
+            <li><a href="/about/">About</a></li>
+            
+            <li><a href="/faq/">Faq</a></li>
+            
+            <li><a href="/contact/">Contact</a></li>
+            
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3 col-sm-6 text-center text-sm-left">
+        <div class="footer-widget">
+          <h4 class="mb-4">Opening Hours</h4>
+          <ul class="pl-0 list-unstyled mb-5">
+            
+            <li class="d-lg-flex justify-content-between">Monday-Friday <span>8.00-20.00</span></li>
+            
+            <li class="d-lg-flex justify-content-between">Saturday <span>10.00-20.00</span></li>
+            
+            <li class="d-lg-flex justify-content-between">Sunday <span>12.00-20.00</span></li>
+            
+          </ul>
+
+          <h5>Call Now : 0124857985320</h5>
         </div>
       </div>
     </div>
@@ -226,28 +453,64 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </footer>
 
 
+<div class="footer-btm py-4 ">
+  <div class="container">
+    <div class="row ">
+      <div class="col-lg-6">
+        <p class="copyright mb-0 ">Designed By <a href="https://themefisher.com/">Themefisher</a> &amp; Developed By <a href="https://gethugothemes.com/">Gethugothemes</a></p>
+      </div>
+      <div class="col-lg-6">
+        <ul class="list-inline mb-0 footer-btm-links text-lg-right mt-2 mt-lg-0">
+          
+          <li class="list-inline-item"><a href="/privacy-policy/">Privacy Policy</a></li>
+          
+          <li class="list-inline-item"><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
+          
+          <li class="list-inline-item"><a href="/cookie-policy/">Cookie Policy</a></li>
+          
+          <li class="list-inline-item"><a href="/terms-of-sale/">Terms of Sale</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 
+<script>
+  var indexURL = "/index.json"
+</script>
 
 
 <div hidden id="snipcart" data-api-key="ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"></div>
 
 
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&amp;libraries=places"></script>
+
+
+
+<script src="/plugins/jQuery/jquery.min.js"></script>
+
+<script src="/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="/plugins/SyoTimer/jquery.syotimer.min.js"></script>
+
+<script src="/plugins/slick/slick.min.js"></script>
+
+<script src="https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.js"></script>
+
+<script src="/plugins/instafeed-js/instafeed.min.js"></script>
+
+<script src="/plugins/search/fuse.min.js"></script>
+
+<script src="/plugins/search/mark.js"></script>
+
+<script src="/plugins/search/search.js"></script>
+
+<script src="/plugins/google-map/gmap.js"></script>
 
 
 
 
-<script src="http://localhost:1313/plugins/jquery/jquery.js"></script>
-
-<script src="http://localhost:1313/plugins/bootstrap/bootstrap.min.js"></script>
-
-<script src="http://localhost:1313/plugins/slick/slick.min.js"></script>
-
-<script src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
-
-
-
-
-<script src="http://localhost:1313/js/script.js"></script></body>
-
+<script src="/js/script.min.js"></script></body>
 </html>

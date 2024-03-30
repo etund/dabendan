@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colors on Adrian Hugo | E-commerce template</title>
+    <link>http://localhost:1313/colors/</link>
+    <description>Recent content in Colors on Adrian Hugo | E-commerce template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/colors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black</title>
+      <link>http://localhost:1313/colors/black/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/black/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blue</title>
+      <link>http://localhost:1313/colors/blue/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golden</title>
+      <link>http://localhost:1313/colors/golden/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/golden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Green</title>
+      <link>http://localhost:1313/colors/green/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/green/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pink</title>
+      <link>http://localhost:1313/colors/pink/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/pink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red</title>
+      <link>http://localhost:1313/colors/red/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/red/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White</title>
+      <link>http://localhost:1313/colors/white/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>http://localhost:1313/colors/white/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
