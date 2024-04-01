@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Adrian Hugo | E-commerce template</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Adrian Hugo | E-commerce template</description>
+    <title>Categories on 大笨蛋游戏</title>
+    <link>https://dabendan-65n.pages.dev/categories/</link>
+    <description>Recent content in Categories on 大笨蛋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn</language>
     <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dabendan-65n.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bag</title>
-      <link>http://localhost:1313/categories/bag/</link>
+      <link>https://dabendan-65n.pages.dev/categories/bag/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/categories/bag/</guid>
+      <guid>https://dabendan-65n.pages.dev/categories/bag/</guid>
       <description></description>
     </item>
     <item>
       <title>Shirt</title>
-      <link>http://localhost:1313/categories/shirt/</link>
+      <link>https://dabendan-65n.pages.dev/categories/shirt/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/categories/shirt/</guid>
+      <guid>https://dabendan-65n.pages.dev/categories/shirt/</guid>
       <description></description>
     </item>
     <item>
       <title>Shoe</title>
-      <link>http://localhost:1313/categories/shoe/</link>
+      <link>https://dabendan-65n.pages.dev/categories/shoe/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/categories/shoe/</guid>
+      <guid>https://dabendan-65n.pages.dev/categories/shoe/</guid>
       <description></description>
     </item>
     <item>
       <title>Tops</title>
-      <link>http://localhost:1313/categories/tops/</link>
+      <link>https://dabendan-65n.pages.dev/categories/tops/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/categories/tops/</guid>
+      <guid>https://dabendan-65n.pages.dev/categories/tops/</guid>
       <description></description>
     </item>
     <item>
       <title>Watch</title>
-      <link>http://localhost:1313/categories/watch/</link>
+      <link>https://dabendan-65n.pages.dev/categories/watch/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/categories/watch/</guid>
+      <guid>https://dabendan-65n.pages.dev/categories/watch/</guid>
       <description></description>
     </item>
   </channel>

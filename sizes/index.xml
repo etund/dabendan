@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sizes on Adrian Hugo | E-commerce template</title>
-    <link>http://localhost:1313/sizes/</link>
-    <description>Recent content in Sizes on Adrian Hugo | E-commerce template</description>
+    <title>Sizes on 大笨蛋游戏</title>
+    <link>https://dabendan-65n.pages.dev/sizes/</link>
+    <description>Recent content in Sizes on 大笨蛋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn</language>
     <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/sizes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dabendan-65n.pages.dev/sizes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M</title>
-      <link>http://localhost:1313/sizes/m/</link>
+      <link>https://dabendan-65n.pages.dev/sizes/m/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/sizes/m/</guid>
+      <guid>https://dabendan-65n.pages.dev/sizes/m/</guid>
       <description></description>
     </item>
     <item>
       <title>S</title>
-      <link>http://localhost:1313/sizes/s/</link>
+      <link>https://dabendan-65n.pages.dev/sizes/s/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/sizes/s/</guid>
+      <guid>https://dabendan-65n.pages.dev/sizes/s/</guid>
       <description></description>
     </item>
     <item>
       <title>XL</title>
-      <link>http://localhost:1313/sizes/xl/</link>
+      <link>https://dabendan-65n.pages.dev/sizes/xl/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/sizes/xl/</guid>
+      <guid>https://dabendan-65n.pages.dev/sizes/xl/</guid>
       <description></description>
     </item>
     <item>
       <title>XXL</title>
-      <link>http://localhost:1313/sizes/xxl/</link>
+      <link>https://dabendan-65n.pages.dev/sizes/xxl/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/sizes/xxl/</guid>
+      <guid>https://dabendan-65n.pages.dev/sizes/xxl/</guid>
       <description></description>
     </item>
   </channel>

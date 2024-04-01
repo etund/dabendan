@@ -1,60 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colors on Adrian Hugo | E-commerce template</title>
-    <link>http://localhost:1313/colors/</link>
-    <description>Recent content in Colors on Adrian Hugo | E-commerce template</description>
+    <title>Colors on 大笨蛋游戏</title>
+    <link>https://dabendan-65n.pages.dev/colors/</link>
+    <description>Recent content in Colors on 大笨蛋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn</language>
     <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/colors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dabendan-65n.pages.dev/colors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black</title>
-      <link>http://localhost:1313/colors/black/</link>
+      <link>https://dabendan-65n.pages.dev/colors/black/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/black/</guid>
+      <guid>https://dabendan-65n.pages.dev/colors/black/</guid>
       <description></description>
     </item>
     <item>
       <title>Blue</title>
-      <link>http://localhost:1313/colors/blue/</link>
+      <link>https://dabendan-65n.pages.dev/colors/blue/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/blue/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golden</title>
-      <link>http://localhost:1313/colors/golden/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/golden/</guid>
+      <guid>https://dabendan-65n.pages.dev/colors/blue/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>http://localhost:1313/colors/green/</link>
+      <link>https://dabendan-65n.pages.dev/colors/green/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/green/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pink</title>
-      <link>http://localhost:1313/colors/pink/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/pink/</guid>
+      <guid>https://dabendan-65n.pages.dev/colors/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>http://localhost:1313/colors/red/</link>
+      <link>https://dabendan-65n.pages.dev/colors/red/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/red/</guid>
+      <guid>https://dabendan-65n.pages.dev/colors/red/</guid>
       <description></description>
     </item>
     <item>
       <title>White</title>
-      <link>http://localhost:1313/colors/white/</link>
+      <link>https://dabendan-65n.pages.dev/colors/white/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/colors/white/</guid>
+      <guid>https://dabendan-65n.pages.dev/colors/white/</guid>
       <description></description>
     </item>
   </channel>

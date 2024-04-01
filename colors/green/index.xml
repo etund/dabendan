@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Green on Adrian Hugo | E-commerce template</title>
-    <link>http://localhost:1313/colors/green/</link>
-    <description>Recent content in Green on Adrian Hugo | E-commerce template</description>
+    <title>Green on 大笨蛋游戏</title>
+    <link>https://dabendan-65n.pages.dev/colors/green/</link>
+    <description>Recent content in Green on 大笨蛋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn</language>
     <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/colors/green/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dabendan-65n.pages.dev/colors/green/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Black Tops</title>
-      <link>http://localhost:1313/shop/black-tops/</link>
+      <title>奇屋寻踪</title>
+      <link>https://dabendan-65n.pages.dev/shop/floral-kirby/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/black-tops/</guid>
+      <guid>https://dabendan-65n.pages.dev/shop/floral-kirby/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     <item>
-      <title>Floral Kirby</title>
-      <link>http://localhost:1313/shop/floral-kirby/</link>
+      <title>梦想城镇</title>
+      <link>https://dabendan-65n.pages.dev/shop/black-tops/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/floral-kirby/</guid>
+      <guid>https://dabendan-65n.pages.dev/shop/black-tops/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
   </channel>

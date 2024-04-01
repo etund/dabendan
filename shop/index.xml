@@ -1,116 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shop on Adrian Hugo | E-commerce template</title>
-    <link>http://localhost:1313/shop/</link>
-    <description>Recent content in Shop on Adrian Hugo | E-commerce template</description>
+    <title>店铺 on 大笨蛋游戏</title>
+    <link>https://dabendan-65n.pages.dev/shop/</link>
+    <description>Recent content in 店铺 on 大笨蛋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn</language>
     <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/shop/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Black Tops</title>
-      <link>http://localhost:1313/shop/black-tops/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/black-tops/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Blue Shirt</title>
-      <link>http://localhost:1313/shop/blue-shirt/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/blue-shirt/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Classic Watch</title>
-      <link>http://localhost:1313/shop/classic-watch/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/classic-watch/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Female Bag</title>
-      <link>http://localhost:1313/shop/female-bag/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/female-bag/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Floral Kirby</title>
-      <link>http://localhost:1313/shop/floral-kirby/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/floral-kirby/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Hand Bag</title>
-      <link>http://localhost:1313/shop/hand-bag/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/hand-bag/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Hand Watch</title>
-      <link>http://localhost:1313/shop/hand-watch/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/hand-watch/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Keds</title>
-      <link>http://localhost:1313/shop/keds/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/keds/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Ladies Watch</title>
-      <link>http://localhost:1313/shop/ladies-watch/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/ladies-watch/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Lady Shoe</title>
-      <link>http://localhost:1313/shop/lady-lofer/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/lady-lofer/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Lady Shoe</title>
-      <link>http://localhost:1313/shop/lady-shoe/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/lady-shoe/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Orange Bag</title>
-      <link>http://localhost:1313/shop/orange-bag/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/orange-bag/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Purse</title>
-      <link>http://localhost:1313/shop/purse/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/purse/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Smart Watch</title>
-      <link>http://localhost:1313/shop/smart-watch/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/smart-watch/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
+    <atom:link href="https://dabendan-65n.pages.dev/shop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sneakers</title>
-      <link>http://localhost:1313/shop/sneakers/</link>
+      <link>https://dabendan-65n.pages.dev/shop/sneakers/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>http://localhost:1313/shop/sneakers/</guid>
+      <guid>https://dabendan-65n.pages.dev/shop/sneakers/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>奇屋寻踪</title>
+      <link>https://dabendan-65n.pages.dev/shop/floral-kirby/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/floral-kirby/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>悬疑庄园</title>
+      <link>https://dabendan-65n.pages.dev/shop/female-bag/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/female-bag/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>放置工厂</title>
+      <link>https://dabendan-65n.pages.dev/shop/hand-bag/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/hand-bag/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>梦幻家园</title>
+      <link>https://dabendan-65n.pages.dev/shop/keds/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/keds/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>梦幻水族箱</title>
+      <link>https://dabendan-65n.pages.dev/shop/blue-shirt/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/blue-shirt/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>梦幻花园</title>
+      <link>https://dabendan-65n.pages.dev/shop/hand-watch/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/hand-watch/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>梦想城镇</title>
+      <link>https://dabendan-65n.pages.dev/shop/black-tops/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/black-tops/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    <item>
+      <title>猫咪和汤</title>
+      <link>https://dabendan-65n.pages.dev/shop/classic-watch/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/shop/classic-watch/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
   </channel>
