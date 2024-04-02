@@ -6,13 +6,20 @@
     <description>Recent content in Colors on 大笨蛋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 25 Nov 2022 13:39:07 +0600</lastBuildDate>
     <atom:link href="https://dabendan-65n.pages.dev/colors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black</title>
       <link>https://dabendan-65n.pages.dev/colors/black/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      <pubDate>Fri, 25 Nov 2022 13:39:07 +0600</pubDate>
       <guid>https://dabendan-65n.pages.dev/colors/black/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White</title>
+      <link>https://dabendan-65n.pages.dev/colors/white/</link>
+      <pubDate>Fri, 25 Nov 2022 13:39:07 +0600</pubDate>
+      <guid>https://dabendan-65n.pages.dev/colors/white/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +41,6 @@
       <link>https://dabendan-65n.pages.dev/colors/red/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
       <guid>https://dabendan-65n.pages.dev/colors/red/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>White</title>
-      <link>https://dabendan-65n.pages.dev/colors/white/</link>
-      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
-      <guid>https://dabendan-65n.pages.dev/colors/white/</guid>
       <description></description>
     </item>
   </channel>

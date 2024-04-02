@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dabendan-65n.pages.dev/colors/black/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
+    <loc>https://dabendan-65n.pages.dev/categories/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
+    <loc>https://dabendan-65n.pages.dev/colors/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
+    <loc>https://dabendan-65n.pages.dev/categories/watch/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
+    <loc>https://dabendan-65n.pages.dev/colors/white/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
+    <loc>https://dabendan-65n.pages.dev/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
+    <loc>https://dabendan-65n.pages.dev/shop/classic-watch/</loc>
+    <lastmod>2022-11-25T13:39:07+06:00</lastmod>
+  </url><url>
     <loc>https://dabendan-65n.pages.dev/categories/bag/</loc>
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
-    <loc>https://dabendan-65n.pages.dev/colors/black/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
     <loc>https://dabendan-65n.pages.dev/colors/blue/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
-    <loc>https://dabendan-65n.pages.dev/categories/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
-    <loc>https://dabendan-65n.pages.dev/colors/</loc>
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
     <loc>https://dabendan-65n.pages.dev/contact/</loc>
@@ -47,16 +59,7 @@
     <loc>https://dabendan-65n.pages.dev/sizes/</loc>
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
-    <loc>https://dabendan-65n.pages.dev/shop/sneakers/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
     <loc>https://dabendan-65n.pages.dev/categories/tops/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
-    <loc>https://dabendan-65n.pages.dev/categories/watch/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
-    <loc>https://dabendan-65n.pages.dev/colors/white/</loc>
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
     <loc>https://dabendan-65n.pages.dev/sizes/xl/</loc>
@@ -66,9 +69,6 @@
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
     <loc>https://dabendan-65n.pages.dev/about/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
-  </url><url>
-    <loc>https://dabendan-65n.pages.dev/</loc>
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
     <loc>https://dabendan-65n.pages.dev/shop/floral-kirby/</loc>
@@ -92,10 +92,8 @@
     <loc>https://dabendan-65n.pages.dev/shop/hand-watch/</loc>
     <lastmod>2019-11-25T13:39:07+06:00</lastmod>
   </url><url>
-    <loc>https://dabendan-65n.pages.dev/shop/black-tops/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
+    <loc>https://dabendan-65n.pages.dev/categories/%E6%94%BE%E7%BD%AE%E7%B1%BB/</loc>
   </url><url>
-    <loc>https://dabendan-65n.pages.dev/shop/classic-watch/</loc>
-    <lastmod>2019-11-25T13:39:07+06:00</lastmod>
+    <loc>https://dabendan-65n.pages.dev/shop/black-tops/</loc>
   </url>
 </urlset>
